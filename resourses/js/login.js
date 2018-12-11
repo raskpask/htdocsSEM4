@@ -1,10 +1,10 @@
 $(document).ready(function () {
 
-    /*var baseUrl = location.href.replace("Login", "");
-    var loginUrl = baseUrl + "Login";
+    var baseUrl = location.href.replace("Login", "");
+    var loginUrl = baseUrl + "LoginPage";
     var writeUrl = baseUrl + "StoreEntry";
     var readUrl = baseUrl + "GetEntries";
-    var deleteUrl = baseUrl + "DeleteEntry";*/
+    var deleteUrl = baseUrl + "DeleteEntry";
 
     function LoginFunct(){
         var self = this;
@@ -19,12 +19,12 @@ $(document).ready(function () {
                 p = ko.toJS(self.password);
                 u = ko.toJS(self.username);
 
-                $.post("../../classes/TastyRecipe/Login.php",
+                $.post(loginUrl,
                     {
                         'password': p,
                         'username': u,
-                    }
-
+                    },
+                    function (a,b) {test(a,b);}
 
                 );
             }else{
@@ -32,10 +32,23 @@ $(document).ready(function () {
                 alert("Wrong username or password")
 
             }
+            // location.reload();
         };
+        /* var password = $('#password').val();
+         var username = $('#username').val();*/
+        //   console.log('Hej');
+        //console.log(password);
 
 
+        function test(a,b) {
+            console.log('3245345' +a);
+            if (a.charAt(0)==1) {
+                document.location.href = 'MyPage';
+            }else{
+                alert('Wrong username or password');
 
+            }
+        }
 
     };
 

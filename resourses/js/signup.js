@@ -19,7 +19,7 @@ $(document).ready(function () {
                 p = ko.toJS(self.password);
                 u = ko.toJS(self.username);
 
-                $.post("../../classes/TastyRecipe/Signup.php",
+                $.post("../../classes/TastyRecipe/SignupPage.php",
                     {
                         'password': p,
                         'username': u,
