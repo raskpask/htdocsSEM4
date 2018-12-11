@@ -1,17 +1,18 @@
-
+<?php
+require_once 'keys.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 
-<div><a href="FirstPage"><img src="../resourses/img/homepage1.png" alt="Link to homepage" id="homebutton"></a>
+<div><a href="/Index.php"><img src="img/homepage1.png" alt="Link to homepage" id="homebutton"></a>
     <h1> Tasty Recipes </h1>
     <?php
-
-    if ($username !== null) {
-        echo "<a href='/TastyRecipe/Logout' id='loginbutton'> Logout </a>";
+    if (isset($_SESSION[LOGIN_USERNAME])) {
+        echo "<a href='/logout.php' id='loginbutton'> Logout </a>";
     } else {
-        echo "<a href='/TastyRecipe/LoginPage' id='loginbutton'> Login </a>";
-        echo "<a href='/TastyRecipe/SignupPage' id='loginbutton'> Signup </a>";
+        echo "<a href='/login_page.php' id='loginbutton'> Login </a>";
+        echo "<a href='/signup_page.php' id='loginbutton'> Signup </a>";
     }
     ?>
 </div>

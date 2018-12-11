@@ -2,10 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/LoginPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/TastyRecipe/LoginPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/ClassNotFoundException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/InternalServerErrorException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/Router.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/SessionManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/Start.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/ErrorHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/handler-not-found.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/internal-server-error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/view-not-found.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Util/Classes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Util/Strings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/View/AbstractRequestHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/View/ViewNotFoundException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/CalendarPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Controller/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/DefaultRequestHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/DeleteEntry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/FirstPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/GetUsername.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Integration/ConversationStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Integration/UserStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/LoginPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/MeatballPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Model/Entry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Model/VerifyUser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/RecipePage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/SignupPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/StoreEntry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Util/Constants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/fragments/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/fragments/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/fragments/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/fragments/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/Muffin.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/calendar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/homepage1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/homepage1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/kottbullar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/meatballsServing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/meatballsfront.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/module_table_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/module_table_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/pancakeServing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/pancakebackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/img/panncake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resourses/js/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/js/comment.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resourses/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/js/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resourses/js/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/js/signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/calendar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/json-view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/loginP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/meatballs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/recipe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/signupP.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,54 +79,47 @@
     <session id="1891764058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="11" />
-          <entry key="js" value="6" />
-          <entry key="php" value="357" />
-          <entry key="txt" value="35" />
-          <entry key="xml" value="3" />
+          <entry key="js" value="4" />
+          <entry key="php" value="83" />
+          <entry key="txt" value="16" />
+          <entry key="xml" value="1" />
           <entry key="xsd" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="11" />
-          <entry key="JavaScript" value="6" />
-          <entry key="PHP" value="357" />
-          <entry key="PLAIN_TEXT" value="35" />
-          <entry key="XML" value="5" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="83" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="162" />
-          <entry key="dummy" value="10" />
-          <entry key="js" value="759" />
-          <entry key="php" value="12015" />
-          <entry key="txt" value="343" />
+          <entry key="js" value="1484" />
+          <entry key="php" value="2103" />
+          <entry key="txt" value="10" />
           <entry key="xml" value="237" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="163" />
-          <entry key="JavaScript" value="758" />
-          <entry key="PHP" value="12012" />
-          <entry key="PLAIN_TEXT" value="353" />
-          <entry key="SQL" value="3" />
+          <entry key="CSS" value="162" />
+          <entry key="JavaScript" value="1484" />
+          <entry key="PHP" value="2103" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="XML" value="237" />
         </counts>
       </usages-collector>
@@ -79,11 +134,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resourses/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="374">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -91,87 +146,70 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resourses/js/signup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+            <state relative-caret-position="255">
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/SignupPage.php">
+        <entry file="file://$PROJECT_DIR$/viewComments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#30#71#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Signup.php">
+        <entry file="file://$PROJECT_DIR$/keys.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="17">
+              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/signupP.php">
+        <entry file="file://$PROJECT_DIR$/STORE_USER.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="12" selection-start-column="4" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/loginP.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="34" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="e#112#153#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/LoginPage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#29#70#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/DefaultRequestHandler.php">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_chat-jquery-ajax-mvc-php-version2 (1).zip/chat-jquery-ajax-mvc-php/get-entries.php">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resourses/js/comment.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conversation/meatballsComments.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conversation/pancakeComments.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ENTRY.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -194,62 +232,43 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="d02f0785-c6e9-4f79-ba95-4d2e1067daf0" />
+    <option name="defaultAccountId" value="afb32041-4907-4d86-8fe8-60292eb15c8e" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/classes/Tasty/View/FirstPage.php" />
-        <option value="$PROJECT_DIR$/classes/Tasty/View/DefaultRequestHandler.php" />
-        <option value="$PROJECT_DIR$/classes/Tasty/Util/Constants.php" />
-        <option value="$PROJECT_DIR$/classes/Tasty/Model/Entry.php" />
-        <option value="$PROJECT_DIR$/classes/Tasty/Integration/ConversationStore.php" />
-        <option value="$PROJECT_DIR$/views/reciepe.php" />
-        <option value="$PROJECT_DIR$/resourses/Database/SQLcode.txt" />
-        <option value="$PROJECT_DIR$/resourses/Database/mysqli_connect.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Integration/DbAccess.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Model/Person.php" />
-        <option value="$PROJECT_DIR$/database.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Integration/PersonDAO.php" />
-        <option value="$PROJECT_DIR$/resourses/Users/Users.txt" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Model/Entry_user.php" />
-        <option value="$PROJECT_DIR$/resourses/conversation/meatballsComments.txt" />
-        <option value="$PROJECT_DIR$/resourses/conversation/pancakeComments.txt" />
-        <option value="$PROJECT_DIR$/meatballsComments.txt" />
-        <option value="$PROJECT_DIR$/pancakeComments.txt" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Logout.php" />
+        <option value="$PROJECT_DIR$/conversation.txt" />
+        <option value="$PROJECT_DIR$/signup.php" />
+        <option value="$PROJECT_DIR$/LoginDesign.css" />
+        <option value="$PROJECT_DIR$/Users.txt" />
         <option value="$PROJECT_DIR$/resourses/fragments/header.php" />
-        <option value="$PROJECT_DIR$/views/recipe.php" />
-        <option value="$PROJECT_DIR$/views/meatballs.php" />
-        <option value="$PROJECT_DIR$/views/calendar.php" />
-        <option value="$PROJECT_DIR$/resourses/fragments/footer.php" />
-        <option value="$PROJECT_DIR$/users.txt" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/CalendarPage.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/RecipePage.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/StoreEntry.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Model/Entry.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Integration/ConversationStore.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/DeleteEntry.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/FirstPage.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/MeatballPage.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Controller/Controller.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Integration/UserStore.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Model/VerifyUser.php" />
-        <option value="$PROJECT_DIR$/resourses/js/comment.js" />
-        <option value="$PROJECT_DIR$/views/login.php" />
-        <option value="D:/Volleyboll videos/chat-jquery-ajax-mvc-php-version2/chat-jquery-ajax-mvc-php/resources/js/chat.js" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Util/Constants.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/GetUsername.php" />
-        <option value="$PROJECT_DIR$/views/json-view.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Login.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/Signup.php" />
-        <option value="$PROJECT_DIR$/views/loginP.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/LPage.php" />
-        <option value="$PROJECT_DIR$/views/signupP.php" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/SignupPage.php" />
+        <option value="$PROJECT_DIR$/LOGIN_ENTRY.php" />
+        <option value="$PROJECT_DIR$/mainDesign.css" />
+        <option value="$PROJECT_DIR$/myRecipes.xsd" />
+        <option value="$PROJECT_DIR$/keys.php" />
+        <option value="$PROJECT_DIR$/recipe.xml" />
+        <option value="$PROJECT_DIR$/pancake.php" />
+        <option value="$PROJECT_DIR$/meatballs.php" />
+        <option value="$PROJECT_DIR$/pancakepage.php" />
+        <option value="$PROJECT_DIR$/meatballspage.php" />
+        <option value="$PROJECT_DIR$/delete-entry.php" />
+        <option value="$PROJECT_DIR$/RecipeDesign.css" />
+        <option value="$PROJECT_DIR$/homepage.php" />
+        <option value="$PROJECT_DIR$/CSS/RecipeDesign.css" />
+        <option value="$PROJECT_DIR$/CSS/CalendarDesign.css" />
+        <option value="$PROJECT_DIR$/login_page.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/signup_page.php" />
         <option value="$PROJECT_DIR$/resourses/js/signup.js" />
+        <option value="$PROJECT_DIR$/STORE_USER.php" />
         <option value="$PROJECT_DIR$/resourses/js/login.js" />
-        <option value="$PROJECT_DIR$/classes/TastyRecipe/LoginPage.php" />
+        <option value="$PROJECT_DIR$/Users/Users.txt" />
+        <option value="$PROJECT_DIR$/STORE_ENTRY.php" />
+        <option value="$PROJECT_DIR$/recipepage.php" />
+        <option value="$PROJECT_DIR$/conversation/meatballsComments.txt" />
+        <option value="$PROJECT_DIR$/conversation/pancakeComments.txt" />
+        <option value="$PROJECT_DIR$/viewComments.php" />
+        <option value="$PROJECT_DIR$/resourses/js/comment.js" />
       </list>
     </option>
   </component>
@@ -284,41 +303,7 @@
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="TastyRecipe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="TastyRecipe" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="TastyRecipe" type="462c0819:PsiDirectoryNode" />
-              <item name="Integration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="TastyRecipe" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="TastyRecipe" type="462c0819:PsiDirectoryNode" />
-              <item name="Util" type="462c0819:PsiDirectoryNode" />
+              <item name="conversation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
@@ -334,7 +319,7 @@
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Users" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,17 +330,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Volleyboll videos/id1354-js-usage-lec/id1354-js-usage-lec" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\classes\Tasty\Controller" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\resourses" />
-      <recent name="C:\xampp\htdocs\views" />
-      <recent name="C:\xampp\htdocs\classes\TastyRecipe" />
-      <recent name="C:\xampp\htdocs\classes\TastyRecipe\Model" />
       <recent name="C:\xampp\htdocs\CSS" />
     </key>
   </component>
@@ -371,16 +350,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="UserStore.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/htdocs/classes/TastyRecipe/Integration/UserStore.php">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.UserStore.php" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -394,18 +363,12 @@
       <workItem from="1542285736293" duration="583000" />
       <workItem from="1542286839923" duration="9167000" />
       <workItem from="1542358692976" duration="1135000" />
-      <workItem from="1542367240047" duration="9074000" />
-      <workItem from="1542825421576" duration="7235000" />
-      <workItem from="1542895093227" duration="32672000" />
-      <workItem from="1543227828122" duration="12087000" />
-      <workItem from="1543483538873" duration="1807000" />
-      <workItem from="1544456228891" duration="2952000" />
-      <workItem from="1544514303325" duration="12332000" />
+      <workItem from="1542367240047" duration="7466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100055000" />
+    <option name="totallyTimeSpent" value="33584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -415,7 +378,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32858709" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -425,14 +388,14 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3264642" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20678337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -463,347 +426,216 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$USER_HOME$/Desktop/Backup MVC/classes/TastyRecipe/FirstPage.php</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/classes/TastyRecipe/Logout.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/classes/TastyRecipe/RecipePage.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/classes/TastyRecipe/MeatballPage.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/classes/TastyRecipe/CalendarPage.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/keys.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/Backup/recipepage.php" />
-    <entry file="file://$PROJECT_DIR$/classes/Id1354fw/View/AbstractRequestHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$USER_HOME$/Desktop/chat-nojs-unstruct-php/keys.php" />
+    <entry file="file://$USER_HOME$/Desktop/chat-nojs-unstruct-php/index.php" />
+    <entry file="file://$USER_HOME$/Desktop/chat-nojs-unstruct-php/login.php" />
+    <entry file="file://$PROJECT_DIR$/conversation.txt" />
+    <entry file="file://$PROJECT_DIR$/resourses/fragments/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/chat-nojs-id1354fw/classes/Chat/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="87" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/chat-nojs-id1354fw/views/conversation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="72" column="25" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="72" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/chat-nojs-id1354fw/classes/Chat/GetEntries.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="72" lean-forward="true" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meatballsComments.txt" />
-    <entry file="file://$PROJECT_DIR$/pancakeComments.txt" />
     <entry file="file://$PROJECT_DIR$/resourses/fragments/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Backup/Calendar.php" />
-    <entry file="file://$PROJECT_DIR$/resourses/fragments/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/meatballs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/calendar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/users.txt" />
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/CalendarPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#30#71#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#30#71#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_id1354-php-db-version2.zip/id1354-php-db/classes/PersonRegister/Integration/PersonDAO.php" />
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Integration/DbAccess.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_id1354-php-db-version2.zip/id1354-php-db/classes/PersonRegister/Model/Person.php" />
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/RecipePage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Model/Entry_user.php" />
-    <entry file="file://$USER_HOME$/Desktop/Backup/classes/TastyRecipe/Integration/ConversationStore.php" />
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/FirstPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/DeleteEntry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/MeatballPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#30#71#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/chat-nojs-id1354fw/classes/Chat/Controller/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/chat-nojs-id1354fw/classes/Chat/Integration/ConversationStore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="73" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Integration/UserStore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-          <folding>
-            <element signature="e#43#76#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Volleyboll videos/id1354-js-usage-lec/id1354-js-usage-lec/ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Volleyboll videos/chat-jquery-ajax-mvc-php-version2/chat-jquery-ajax-mvc-php/resources/js/chat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Volleyboll videos/id1354-js-usage-lec/id1354-js-usage-lec/ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Integration/ConversationStore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" selection-start-line="48" selection-start-column="68" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/recipe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Model/Entry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Model/VerifyUser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Controller/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-          <folding>
-            <element signature="e#42#88#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Util/Constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/StoreEntry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="67" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resourses/js/comment.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/json-view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/GetUsername.php">
+    <entry file="file://$PROJECT_DIR$/resourses/CSS/LoginDesign.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding>
-            <element signature="e#30#71#0#PHP" expanded="true" />
-          </folding>
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="12" selection-start-column="4" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/DefaultRequestHandler.php">
+    <entry file="file://$PROJECT_DIR$/logout.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Login.php">
+    <entry file="file://$PROJECT_DIR$/pancake.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="e#112#153#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/loginP.php">
+    <entry file="file://$PROJECT_DIR$/meatballs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="34" selection-end-column="15" />
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/signupP.php">
+    <entry file="file://$PROJECT_DIR$/meatballspage.php" />
+    <entry file="file://$PROJECT_DIR$/delete-entry.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        <state relative-caret-position="242">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/Signup.php">
+    <entry file="file://$PROJECT_DIR$/signup.php" />
+    <entry file="file://$PROJECT_DIR$/resourses/CSS/reset.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="1632">
+          <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/SignupPage.php">
+    <entry file="file://$PROJECT_DIR$/myRecipes.xsd" />
+    <entry file="file://$PROJECT_DIR$/members.txt" />
+    <entry file="file://$PROJECT_DIR$/config.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calendar.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resourses/CSS/mainDesign.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#30#71#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resourses/CSS/CalendarDesign.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resourses/CSS/RecipeDesign.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="79" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/sem4FW/views/loginP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LOGIN_ENTRY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Users/Users.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STORE_ENTRY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STORE_USER.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_chat-jquery-ajax-mvc-php-version2 (1).zip/chat-jquery-ajax-mvc-php/get-entries.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resourses/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resourses/js/signup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        <state relative-caret-position="255">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/TastyRecipe/LoginPage.php">
+    <entry file="file://$PROJECT_DIR$/conversation/meatballsComments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversation/pancakeComments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ENTRY.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#29#70#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resourses/js/login.js">
+    <entry file="file://$PROJECT_DIR$/viewComments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resourses/js/comment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
         </state>
       </provider>
     </entry>

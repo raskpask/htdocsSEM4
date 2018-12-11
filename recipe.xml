@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <cookbook version="46" xsi:schemaLocation="http://www.mycookbook-android.com ./myRecipes.xsd"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mycookbook-android.com">
+
+
+
+    <recipe>
+
+        <title>Pancakes</title>
+
+        <preptime>10 min</preptime>
+
+        <cooktime>20 min</cooktime>
+
+        <totaltime>30 min</totaltime>
+
+
+
+        <description>
+
+            <li>Ingredients (6 Persons):</li>
+            <li>Method</li>
+
+        </description>
+
+
+
+        <ingredient>
+
+            <li>6 eggs</li>
+            <li>Some salt</li>
+            <li>5dl of flour</li>
+            <li>1l of milk</li>
+
+        </ingredient>
+
+
+
+        <recipetext>
+
+            <li> In a bowl, mix all the ingredients together, breaking up any lumps.</li>
+            <li> Add butter to the pan and pour a ladle full of batter for each pancake onto a hot griddle.</li>
+            <li> Flip the pancakes when the edges appear cooked and the batter bubbles on top.</li>
+            <li> Serve immediately.</li>
+            <li> Repeat util you don't have any more batter.</li>
+            <li>A serving suggestion can be with banana, nutella and whipped cream.</li>
+
+        </recipetext>
+
+        <url></url>
+
+        <video></video>
+
+        <quantity>4</quantity>
+
+        <imagepath>/img/pancakeServing.jpg</imagepath>
+
+        <imageurl></imageurl>
+
+        <comments>Your comments</comments>
+
+        <source>Source</source>
+
+
+
+        <nutrition>
+
+            <li>Nutritional information</li>
+
+        </nutrition>
+
+        <rating>5</rating>
+
+        <category>category 1</category>
+
+        <category>category 2</category>
+
+    </recipe>
+
+
+
+    <recipe>
+
+        <title>Meatballs</title>
+
+        <preptime>15 min</preptime>
+
+        <cooktime>15 min</cooktime>
+
+        <totaltime>30 min</totaltime>
+
+        <description>
+
+            <li>Ingredients (6 Persons):</li>
+            <li>Method</li>
+
+        </description>
+
+        <ingredient>
+
+            <li>1kg of ground beef</li>
+            <li>Some salt</li>
+            <li>2 garlic cloves</li>
+            <li>4 eggs</li>
+            <li>0.25 dl of olive oil</li>
+            <li>2dl of water</li>
+            <li>salt and pepper</li>
+            <li>bread crums</li>
+
+        </ingredient>
+
+
+
+        <recipetext>
+
+            <li> Combine beef, veal, and pork in a large bowl. Add garlic, eggs, cheese, parsley, salt and pepper.
+            </li>
+            <li> Blend bread crumbs into meat mixture. Slowly add the water 1/2 cup at a time. The mixture should be
+                very moist but still hold its shape if rolled into meatballs. (I usually use about 1 1/4 cups of water).
+                Shape into meatballs.
+            </li>
+            <li> Heat olive oil in a large skillet. Fry meatballs in batches. When the meatball is very brown and
+                slightly crisp remove from the heat and drain on a paper towel. (If your mixture is too wet, cover the
+                meatballs while they are cooking so
+                that they hold their shape better.
+            </li>
+
+        </recipetext>
+
+        <url/>
+
+        <quantity/>
+
+        <imagepath>/img/meatballsServing.jpg</imagepath>
+
+        <imageurl/>
+
+        <comments/>
+
+        <source>Grandma</source>
+
+        <video></video>
+
+        <nutrition/>
+
+        <rating>4</rating>
+
+        <category>Meal</category>
+
+    </recipe>
+
+</cookbook>
