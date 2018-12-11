@@ -28,7 +28,7 @@ class Login extends AbstractRequestHandler{
 
     protected function doExecute()
     {
-        echo "ehasdfsdfj";
+
         $this->session->restart();
         $contr = $this->session->get(Constants::TASTY_CONTR_KEY);
         if(ctype_alnum($_POST['username']) and ctype_print($_POST['password']) and !empty($_POST['username']) and !empty($_POST['password'])){

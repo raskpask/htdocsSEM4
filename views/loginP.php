@@ -4,15 +4,9 @@
 <head>
   <link rel="stylesheet" type="text/css" href="../resourses/CSS/reset.css" />
   <title>Login</title>
-  <link rel="icon" href="../img/Muffin.ico">
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="../resourses/CSS/mainDesign.css" />
     <link rel="stylesheet" type="text/css" href="../resourses/CSS/LoginDesign.css" />
-    <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
-
     <script type="text/javascript"
             src="../resourses/js/login.js"></script>
 </head>
@@ -24,17 +18,21 @@
     </div>
 
     <div class="itemmainleft" id="mainleft">
-      <h2>Fill the form to Login</h2>
+        <form data-bind="submit: login" id = 'login'>
 
-      <p><label for="username">Username:</label></p>
-      <p><input type="text" id="username" placeholder="Enter Username" name="username" data-bind="textInput: username"required /></p>
+            <h2>Fill the form to Login</h2>
 
-      <p><label for="password">Password:</label></p>
-      <p><input type="password" id="password" placeholder="Enter Password" name="password" data-bind="textInput: password" required /></p>
+                <p><label for="username"><b>Username</b></label>
+                <input type="text" data-bind ="value: username, valueUpdate: 'afterkeydown'" id="username" placeholder="Enter Username" name="username" required>
+                </p><p>
+                <label for="password"><b>Password</b></label>
+                <input type="password" data-bind ="value: password, valueUpdate: 'afterkeydown'" id="password" placeholder="Enter Password" name="password" required>
+            </p><p>
+                <button type="submit">Login</button>
+            </p>
 
-        <p><button id="loginbutton">Login</button></p>
-      </form>
 
+        </form>
 
     </div>
 

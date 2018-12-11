@@ -25,9 +25,9 @@ class Signup extends AbstractRequestHandler{
             if($contr->signup($_POST['username'], $_POST['password'])){
                 echo "You have signed up!";
             }
-            return Constants::TASTY_LOGIN_VIEW;
+
         }
         echo "Only characters and numbers in username!";
-        return Constants::TASTY_SIGNUPP_VIEW;
+
     }
 }

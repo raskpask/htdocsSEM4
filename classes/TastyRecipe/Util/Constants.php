@@ -18,6 +18,8 @@ class Constants{
     const TASTY_ISLOGGEDIN = 'loggedin';
     const TASTY_RECIPE= 'reciepeNumber';
     const TASTY_CALENDAR_VIEW= 'calendar';
+    const CHAT_JSON_VIEW = 'json-view';
+    const CHAT_JSON_DATA_VAR = 'jsonData';
 
     public static function getViewFragmentsDir(){
         return $_SERVER['DOCUMENT_ROOT'] . Classes::getContextPath() . '/resourses/fragments/';

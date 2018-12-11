@@ -4,11 +4,17 @@
 <head>
     <link rel="stylesheet" type="text/css" href="../resourses/CSS/reset.css" />
     <title>Login</title>
-    <link rel="icon" href="../img/Muffin.ico">
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="../resourses/CSS/mainDesign.css" />
 
     <link rel="stylesheet" type="text/css" href="../resourses/CSS/LoginDesign.css" />
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
+
+    <script type="text/javascript"
+            src="../resourses/js/signup.js"></script>
 </head>
 
 <body>
@@ -17,17 +23,22 @@
         <?php include TastyRecipe\Util\Constants::getViewFragmentsDir() . 'header.php' ?>
     </div>
     <div class="itemmainleft" id="mainleft">
-        <h2>Fill the form to Sign up</h2>
-        <form action="Signup" method="post">
-            <p><label for="signup_password">Username:</label></p>
-            <p><input type="text" id="username" placeholder="Enter Username" name="username" required /></p>
+        <form data-bind="submit: login" id = 'login'>
 
-            <p><label for="signup_password">Password:</label></p>
-            <p><input type="password" id="password" placeholder="Enter Password" name="password" required /></p>
+            <h2>Fill the form to Login</h2>
 
-            <p><input type="submit" value="Sign up"/>
+            <p><label for="username"><b>Username</b></label>
+                <input type="text" data-bind ="value: username, valueUpdate: 'afterkeydown'" id="username" placeholder="Enter Username" name="username" required>
+            </p><p>
+                <label for="password"><b>Password</b></label>
+                <input type="password" data-bind ="value: password, valueUpdate: 'afterkeydown'" id="password" placeholder="Enter Password" name="password" required>
+            </p><p>
+                <button type="submit">Login</button>
+            </p>
+
+
         </form>
-        </p>
+
     </div>
 
 
