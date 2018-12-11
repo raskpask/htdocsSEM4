@@ -8,33 +8,31 @@ if($_SESSION['recipepage'] == "pancake"){
 }
 
 $entries = explode(";\n", file_get_contents($filename));
-$entriesR= array();
+$entriesA= array();
 for ($i = count($entries) - 1; $i >= 0; $i--) {
     $entry = unserialize($entries[$i]);
     if ($entry instanceof Entry and !($entry->isDeleted())) {
-        $entriesR = new ENTRY($entry->getUsername(),$entry->getMessage());
+        $entriesA[] = array("username"=>$entry->getUsername(),
+                            "message"=>$entry->getMessage(),
+                            "timestamp"=>$entry->getTimestamp(),
+                            "deleted"=>$entry->isDeleted(),
+                            "deletebutton"=>deletebutton($entry->getUsername()));
 
-        $array =  (array) $entry;
-        echo \json_encode($array);
+
+
 
     }
 }
+echo \json_encode($entriesA,JSON_PRETTY_PRINT);
 
 
-function object_to_array($data)
+function deletebutton($username)
 {
-    if(is_array($data) || is_object($data))
-    {
-        $result = array();
+   if($_SESSION['username'] == $username){
+       return true;
+   }
 
-        foreach($data as $key => $value) {
-            $result[$key] = $this->object_to_array($value);
-        }
-
-        return $result;
-    }
-
-    return $data;
+    return false;
 }
 
 

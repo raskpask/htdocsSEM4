@@ -2,72 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/ClassLoader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/ClassNotFoundException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/InternalServerErrorException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/Router.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/SessionManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Core/Start.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/ErrorHandler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/handler-not-found.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/internal-server-error.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Error/view-not-found.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Util/Classes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/Util/Strings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/View/AbstractRequestHandler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Id1354fw/View/ViewNotFoundException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/CalendarPage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Controller/Controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/DefaultRequestHandler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/DeleteEntry.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/FirstPage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/GetUsername.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Integration/ConversationStore.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Integration/UserStore.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/LoginPage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Logout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/MeatballPage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Model/Entry.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Model/VerifyUser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/RecipePage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Signup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/SignupPage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/StoreEntry.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/TastyRecipe/Util/Constants.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/fragments/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/fragments/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/fragments/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/fragments/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/Muffin.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/calendar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/homepage1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/homepage1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/kottbullar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/meatballsServing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/meatballsfront.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/module_table_bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/module_table_top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/pancakeServing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/pancakebackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/img/panncake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/meatballsComments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/meatballsComments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/pancakeComments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/pancakeComments.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resourses/js/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/js/comment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/js/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resourses/js/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/resourses/js/signup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/calendar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/json-view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/loginP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/logout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/meatballs.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/recipe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/signupP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewComments.php" beforeDir="false" afterPath="$PROJECT_DIR$/viewComments.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,18 +18,19 @@
     <session id="1891764058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="11" />
-          <entry key="js" value="4" />
-          <entry key="php" value="83" />
+          <entry key="js" value="5" />
+          <entry key="php" value="87" />
           <entry key="txt" value="16" />
           <entry key="xml" value="1" />
           <entry key="xsd" value="2" />
@@ -99,8 +39,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="11" />
-          <entry key="JavaScript" value="4" />
-          <entry key="PHP" value="83" />
+          <entry key="JavaScript" value="5" />
+          <entry key="PHP" value="87" />
           <entry key="PLAIN_TEXT" value="16" />
           <entry key="XML" value="3" />
         </counts>
@@ -108,8 +48,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="162" />
-          <entry key="js" value="1484" />
-          <entry key="php" value="2103" />
+          <entry key="js" value="1839" />
+          <entry key="php" value="2354" />
           <entry key="txt" value="10" />
           <entry key="xml" value="237" />
         </counts>
@@ -117,8 +57,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="162" />
-          <entry key="JavaScript" value="1484" />
-          <entry key="PHP" value="2103" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="1837" />
+          <entry key="PHP" value="2354" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="XML" value="237" />
         </counts>
@@ -137,17 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resourses/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resourses/js/signup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            <state relative-caret-position="68">
+              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -155,40 +87,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viewComments.php">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keys.php">
+        <entry file="file://$PROJECT_DIR$/login_page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="432">
+              <caret line="34" column="62" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="62" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/STORE_USER.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_chat-jquery-ajax-mvc-php-version2 (1).zip/chat-jquery-ajax-mvc-php/get-entries.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resourses/js/comment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            <state relative-caret-position="289">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipepage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delete-entry.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -281,8 +226,8 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -292,7 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -325,6 +269,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,17 +309,18 @@
       <workItem from="1542286839923" duration="9167000" />
       <workItem from="1542358692976" duration="1135000" />
       <workItem from="1542367240047" duration="7466000" />
+      <workItem from="1544556094360" duration="2903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33584000" />
+    <option name="totallyTimeSpent" value="37165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18490154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,13 +420,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meatballspage.php" />
-    <entry file="file://$PROJECT_DIR$/delete-entry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signup.php" />
     <entry file="file://$PROJECT_DIR$/resourses/CSS/reset.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -553,55 +492,10 @@
     <entry file="file://$PROJECT_DIR$/Users/Users.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="20" column="49" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="20" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/STORE_ENTRY.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/STORE_USER.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keys.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_chat-jquery-ajax-mvc-php-version2 (1).zip/chat-jquery-ajax-mvc-php/get-entries.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resourses/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -611,6 +505,23 @@
           <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STORE_USER.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_chat-jquery-ajax-mvc-php-version2 (1).zip/chat-jquery-ajax-mvc-php/get-entries.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/conversation/meatballsComments.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -625,17 +536,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/delete-entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/viewComments.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resourses/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="34" column="62" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resourses/js/comment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
