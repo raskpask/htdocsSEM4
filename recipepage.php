@@ -19,6 +19,8 @@ $xml=simplexml_load_file("recipe.xml");
 
     <script type="text/javascript"
             src="resourses/js/comment.js"></script>
+    <script type="text/javascript"
+            src="resourses/js/logout.js"></script>
 </head>
 
 <body>

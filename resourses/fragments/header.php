@@ -9,10 +9,10 @@ require_once 'keys.php';
     <h1> Tasty Recipes </h1>
     <?php
     if (isset($_SESSION[LOGIN_USERNAME])) {
-        echo "<a href='/logout.php' id='loginbutton'> Logout </a>";
+        echo "<button id='logoutbutton'> Logout </button>";
     } else {
-        echo "<a href='/login_page.php' id='loginbutton'> Login </a>";
-        echo "<a href='/signup_page.php' id='loginbutton'> Signup </a>";
+        echo "<button id='loginbutton'> Login </button>";
+        echo "<button id='signupbutton'> Signup </button>";
     }
     ?>
 </div>

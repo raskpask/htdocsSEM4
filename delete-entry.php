@@ -14,10 +14,10 @@ if (!empty($_GET[CHAT_TIMESTAMP_KEY])) {
         if ($entry instanceof Entry and ($entry->getTimestamp() == $_GET[CHAT_TIMESTAMP_KEY])) {
             $entry->setDeleted(true);
             $entries[$i] = serialize($entry);
+            echo \json_encode("success");
             break;
         }
     }
     file_put_contents($filename, implode(CHAT_ENTRY_DELIMITER, $entries));
-    include 'recipepage.php';
+
 }
-?>

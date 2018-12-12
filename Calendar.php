@@ -8,6 +8,8 @@
   <link rel="icon" href="Muffin.ico">
   <link rel="stylesheet" type="text/css" href="resourses/CSS/mainDesign.css" />
   <link rel="stylesheet" type="text/css" href="resourses/CSS/CalendarDesign.css"/>
+    <script type="text/javascript"
+            src="resourses/js/logout.js"></script>
 </head>
 
 <body>

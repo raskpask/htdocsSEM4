@@ -1,11 +1,11 @@
 $(document).ready(function () {
-
+    reloadConversation();
     $("button#comment").click(function (event) {
         event.preventDefault();
         const comment = $("#comment").val();
 
         $.getJSON("STORE_ENTRY.php", "&comment=" + comment, function (response) {
-            if (response == "success") {
+            if (response === "success") {
                 alert("You have commented the page!");
                 reloadConversation();
             }
@@ -18,8 +18,14 @@ $(document).ready(function () {
     
 
     function deleteEntry() {
-        alert("hej");
-        const timestamp = $("#delete").val();
+        const timestamp = $("#timestamp").val();
+        $.getJSON("delete-entry.php", "&timestamp=" + timestamp,function(response){
+            if (response === "success") {
+                alert("You have deleted your comment!");
+                reloadConversation();
+            }
+        });
+        alert(timestamp);
 
     }
 
@@ -36,6 +42,7 @@ $(document).ready(function () {
         $("<p class='author'>" + entry.username + " says:</p>").appendTo($("#commentsPlace"));
         $("<p class='entry'>" + entry.message + "</p>").appendTo($("#commentsPlace"));
         if(entry.deletebutton){
+            $("<input type='hidden' id='timestamp' name='timestamp' value='" + entry.timestamp +"'/>").appendTo($("#commentsPlace"));
             $("<button id='delete'>Delete</button>").click(deleteEntry).appendTo($("#commentsPlace"));
 
         }

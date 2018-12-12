@@ -28,10 +28,12 @@ echo \json_encode($entriesA,JSON_PRETTY_PRINT);
 
 function deletebutton($username)
 {
-   if($_SESSION['username'] == $username){
-       return true;
-   }
+    if (isset($_SESSION['username'])) {
 
+    if ($_SESSION['username'] == $username) {
+        return true;
+    }
+}
     return false;
 }
 

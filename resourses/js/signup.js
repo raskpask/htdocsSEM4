@@ -14,7 +14,7 @@ $(document).ready(function () {
                     break;
                 case "success":
                     alert("You successfully created a account!")
-                    window.location.replace("index.php");
+                    window.location.replace("login_page.php");
                     break;
 
                 default:
