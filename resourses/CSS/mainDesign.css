@@ -50,6 +50,36 @@
   color: grey;
   cursor: pointer;
 }
+#logoutbutton {
+  float: right;
+  width: 10vw;
+  max-height: 40px;
+  background-color: lightblue;
+  color: black;
+  margin: 3px;
+  border-radius: 10px;
+  font-weight: normal;
+  text-decoration:none;
+}
+#logoutbutton:hover {
+  color: grey;
+  cursor: pointer;
+}
+#signupbutton {
+  float: right;
+  width: 10vw;
+  max-height: 40px;
+  background-color: lightblue;
+  color: black;
+  margin: 3px;
+  border-radius: 10px;
+  font-weight: normal;
+  text-decoration:none;
+}
+#singupbutton:hover {
+  color: grey;
+  cursor: pointer;
+}
 
 button {
   background-color: lightblue;
@@ -72,8 +102,10 @@ button:hover {
   background-color: grey;
   font-weight: bolder;
   text-align: center;
-  font-size: 2.5vw;
+  font-size: 35px;
+
   max-height: 40px;
+  min-height: 40px;
 }
 
 .itemfooter {
@@ -86,4 +118,10 @@ button:hover {
   background-color: lightblue;
   font-size: x-large;
   font-weight: bolder;
+}
+@media screen and (max-width: 500px){
+  .itemhead {
+    font-size: 25px;
+  }
+
 }
